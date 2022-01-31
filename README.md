@@ -1,0 +1,2 @@
+# ARATA
+from  scratch
